@@ -12,21 +12,6 @@ This repository contains educational materials and implementations for learning 
 
 ## Project Structure
 
-```
-tc_ds_and_algorithms_2025/
-├── notebooks_by_claude/        # Algorithm notebooks created by Claude AI
-│   ├── chapter_1_introduction.ipynb
-│   ├── chapter_2_a_proper_class.ipynb
-│   └── chapter_3_analysis.ipynb
-├── notebooks_by_tc/            # Personal study notebooks
-│   ├── ch_1_tc_introduction.ipynb
-│   ├── ch_2_tc_a_proper_class.ipynb
-│   └── ch_3_tc_analysis.ipynb
-├── problem_solving_book/       # Additional problem-solving resources
-├── main.py                     # Main Python script
-└── pyproject.toml             # Project configuration
-```
-
 ## Getting Started
 
 ### Prerequisites
